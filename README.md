@@ -1,2 +1,2 @@
-# Projects
-This portfolio includes a variety of technical projects that showcase my skills in software development, problem-solving, and system design
+# Premier-League-Predictor
+This project used python and sklearn to predict future games outcomes
